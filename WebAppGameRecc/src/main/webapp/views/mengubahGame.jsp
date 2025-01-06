@@ -194,7 +194,7 @@
     </div>
   </div>
 
-  <a href="/views/adminpage.jsp" class="back-button">&#8630;</a>
+  <a href="/views/homepage.jsp" class="back-button">&#8630;</a>
 
 </body>
 </html>
